@@ -6,7 +6,7 @@
 					fill: #000;
 			}
 			
-			@media (prefers-color-scheme: dark) {
+			@media (prefers-color-scheme: default_dark) {
 				h1 {
 					fill: #fff;
 				}
