@@ -13,5 +13,5 @@ Skills: C# / C++ / JavaScript / HTML / CSS
 
 [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/github.svg' alt='github' height='40'>](https://github.com/la-moreno)  [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/linkedin.svg' alt='linkedin' height='40'>](https://www.linkedin.com/in/lucas-moreno-690a561b2/)  
 
-![GitHub stats](https://github-readme-stats.vercel.app/api?username=la-moreno&show_icons=true&count_private=true)  
+![GitHub stats](https://github-readme-stats.vercel.app/api?username=la-moreno&show_icons=true&count_private=true&theme=dracula)  
 
