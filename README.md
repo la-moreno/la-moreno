@@ -7,11 +7,15 @@ I am currently building on my academic foundations with personal projects and se
 ## Skills and Experience
 * <img src='https://img.icons8.com/fluency/48/000000/unity.png' alt='github' height='22' align="center">                    Unity
 * <img src='https://img.icons8.com/color/48/000000/visual-studio-code-2019.png' alt='github' height='22' align="center">    C++, C#
-* <img src='https://img.icons8.com/color/48/000000/web.png' alt='github' height='22' align="center">                      HTML, CSS, JS
-
-- 🔭 I’m currently working on a 2D space shooter called StarBadger. 
+* <img src='https://img.icons8.com/color/48/000000/web.png' alt='github' height='22' align="center">                        HTML, CSS, JS
 
 ## Examples of Work
-<img src='https://i.gyazo.com/f4b3994d35ec88cdd69f6362b55f5327.gif' alt='github' height='200'>
+<img src='https://github.com/la-moreno/la-moreno/blob/main/starbadger_gif.gif' alt='github' height='240'>
+
+<img src='https://github.com/la-moreno/la-moreno/blob/main/starbadger_gif.gif' alt='github' height='240'>
+
+<img src='https://github.com/la-moreno/la-moreno/blob/main/starbadger_gif.gif' alt='github' height='240'>
+
+
 
 <a href="https://icons8.com">icons by Icons8</a>
