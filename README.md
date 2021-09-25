@@ -5,17 +5,13 @@ Hi! I’m Lucas, a video game programmer and designer who specializes in writing
 I am currently building on my academic foundations with personal projects and self guided learning. I am very passionate about learning new things and taking on complicated challenges. Check out some of my recent projects to get an idea of my skills and capabilities as a programmer and designer.
 
 ## Skills and Experience
-* <img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/github.svg' alt='github' height='15' align="center"> c++
-
-Skills: C# / C++ / JavaScript / HTML / CSS
+* <img src='https://img.icons8.com/fluency/48/000000/unity.png' alt='github' height='22' align="center">                    Unity
+* <img src='https://img.icons8.com/color/48/000000/visual-studio-code-2019.png' alt='github' height='22' align="center">    C++, C#
+* <img src='https://img.icons8.com/color/48/000000/web.png' alt='github' height='22' align="center">                      HTML, CSS, JS
 
 - 🔭 I’m currently working on a 2D space shooter called StarBadger. 
 
+## Examples of Work
+<img src='https://i.gyazo.com/f4b3994d35ec88cdd69f6362b55f5327.gif' alt='github' height='200'>
 
-[<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/github.svg' alt='github' height='15'>](https://github.com/la-moreno)  [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/linkedin.svg' alt='linkedin' height='40'>](https://www.linkedin.com/in/lucas-moreno-690a561b2/)  
-
-![GitHub stats](https://github-readme-stats.vercel.app/api?username=la-moreno&show_icons=true&count_private=true&bg_color=22272e&border_color=545d68&text_color=adbac7)
-
-<div align="center">
-    <img src="TestSVG.svg" width="400" height="400" alt="css-in-readme">
-</div>
+<a href="https://icons8.com">icons by Icons8</a>
