@@ -1,4 +1,4 @@
-![Unity Game Developer](https://i.gyazo.com/2039979d60ea058062911d3c99462db9.png)
+<!-- ![Unity Game Developer](https://i.gyazo.com/2039979d60ea058062911d3c99462db9.png) -->
 # Lucas Moreno 
 Hi! I’m Lucas, a video game programmer and designer who specializes in writing clean and scalable code. In 2020 I graduated from Texas State Technical College, earning an Associate of Applied Science in Graphics, Gaming and Simulation Programming Technology.
 
