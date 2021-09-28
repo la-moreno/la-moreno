@@ -10,11 +10,11 @@ I am currently building on my academic foundations with personal projects and se
 * <img src='https://img.icons8.com/color/48/000000/web.png' alt='github' height='22' align="center">                        HTML, CSS, JS
 
 ## Examples of Work
-<img src='https://github.com/la-moreno/la-moreno/blob/main/starbadger_gif.gif' alt='github' height='240'>
+<img src='https://github.com/la-moreno/la-moreno/blob/main/sb_gif.gif' alt='github' height='240'>
 
-<img src='https://github.com/la-moreno/la-moreno/blob/main/starbadger_gif.gif' alt='github' height='240'>
+<img src='https://github.com/la-moreno/la-moreno/blob/main/lpp_gif.gif' alt='github' height='240'>
 
-<img src='https://github.com/la-moreno/la-moreno/blob/main/starbadger_gif.gif' alt='github' height='240'>
+<img src='https://github.com/la-moreno/la-moreno/blob/main/sc_gif.gif' alt='github' height='240'>
 
 
 
